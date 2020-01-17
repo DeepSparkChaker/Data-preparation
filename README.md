@@ -1,7 +1,10 @@
 # Data-preparation
 The process of preparing data for a machine learning algorithm has the following phases:
+
  •Data selection
+ 
  •Data preprocessing
+ 
      Steps overview
      1.Data cleaning: Complete missing values, smooth noisy data, identify or remove outliers, and resolve inconsistencies.
      2.Data integration: Using multiple databases, other data sources, or files.
@@ -9,6 +12,7 @@ The process of preparing data for a machine learning algorithm has the following
      4.Data dimensionality reduction: Reducing the volume but producing the same or similar analytical results.
      5.Data formatting: The data that you selected might not be in a format that is suitable for you to use.
  •Data transformation
+ 
      Steps overview
      Data transformation (also called feature engineering) is a set of actions that covers transformation of the processed data.
      Engineering features from your data can use some time, but they can enhance the machine learning performance. 
